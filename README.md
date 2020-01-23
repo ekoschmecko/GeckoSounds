@@ -1,5 +1,5 @@
 # GeckoSounds 1.0.0.0
-Download it and play some gecko sounds. And if you want add some own sounds? Do it. Written in C# (WFA-Forms).
+Download it and play some gecko sounds. And if you want to add some own sounds? Do it. Written in C# (WFA-Forms).
 
 Hey,
 
@@ -11,8 +11,8 @@ and i've put a link for an audio converter, too.
 First click on the link (.wav Audio Converter) then the browser will shown up. Select your sounds data and convert it to .wav, then 
 save it in the sounds folder. There must be some other files like "1.wav", "2.wav"... 
 
-1.wav is mapped on the button 'Sound 1'
-2.wav is mapped on the button 'Sound 2'
+1.wav is mapped on the button 'Sound 1';
+2.wav is mapped on the button 'Sound 2';
 3...
 
 The buttons Sound 6 - 8 are not mapped at the beginning. There for some custom sounds from you.
