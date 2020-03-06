@@ -23,7 +23,7 @@ Because of that please name your first sounds to 6.wav, 7.wav or 8.wav.
 # GeckoSounds 1.1.0.0
 
 Changes:
-- Built In Browser
+- Built In Browser (easier way to convert sounds from mp3 to wav)
 - UI Changes 
 - Icon Changes 
 
