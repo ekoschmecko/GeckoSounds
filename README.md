@@ -20,4 +20,10 @@ Because of that please name your first sounds to 6.wav, 7.wav or 8.wav.
 
 -EkoSchmecko
 
+# GeckoSounds 1.1.0.0
+
+Changes:
+- Built In Browser
+- UI Changes 
+- Icon Changes 
 
